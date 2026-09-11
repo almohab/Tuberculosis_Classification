@@ -1,0 +1,13 @@
+data/
+models/
+*.h5
+*.keras
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
